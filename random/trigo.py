@@ -1,0 +1,3 @@
+def abscurvi(avance ,divisions):
+
+
